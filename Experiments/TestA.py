@@ -10,6 +10,7 @@ class TestToBinary(unittest.TestCase):
             (2, '10'),
             (3, '11'),
             (4, '100'),
+            (1, '-1'),
             # Add more test cases as needed
         ]
 
